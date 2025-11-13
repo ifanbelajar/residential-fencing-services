@@ -1,4 +1,4 @@
-# 🏗️ Commercial Fence Contractor – Modern Web Solution
+# 🏗️ residential fencing services – Modern Web Solution
 
 This project is inspired by [SW Fences Port St. Lucie](https://www.swfencesportstlucie.com/) — 
 a professional residential fencing services offering quality installation and repair services.
@@ -20,7 +20,7 @@ Visit: [https://www.swfencesportstlucie.com/](https://www.swfencesportstlucie.co
 - Deployment: Vercel / Netlify / XAMPP
 
 ## 💡 Purpose
-This repository serves as a base for developers or contractors who want to build
+This repository serves as a base for developers or residential fencing services who want to build
 a **residential fencing services website** similar in style and functionality to 
 [SW Fences Port St. Lucie](https://www.swfencesportstlucie.com/).
 
